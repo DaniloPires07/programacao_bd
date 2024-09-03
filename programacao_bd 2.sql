@@ -1,6 +1,8 @@
 
-CREATE TABLE medicoes _experimento (
-repeticao INT, valor_medido DECIMAL (10,4)
+CREATE TABLE medicoes_experimento (
+repeticao INT,
+valor_medido DECIMAL(10,4)
+);
 -- Carga de dados
 INSERT INTO medicoes_experimento (repeticao, valor_medido) VALUES
 (1, 12.3454),
