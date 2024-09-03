@@ -1,8 +1,8 @@
---02.1carga de dados
+-- 02.1 carga de dados
 INSERT INTO clientes_experimentos (id, nome_completo, email, telefone)
 VALUES
 (1, 'João Pedro Silva', 'joao.pedro@gmail.com', '(11) 1234-5678'),
-(12, 'Maria Luiza Oliveira', 'maria.luiza@yahoo.com', '(21) 9876-5432'),
+(2, 'Maria Luiza Oliveira', 'maria.luiza@yahoo.com', '(21) 9876-5432'),
 (3, 'Carlos Eduardo Santos', 'carlos.eduardo@hotmail.com', '(31) 1111-2222'),
 (4, 'Ana Beatriz Costa', 'ana.beatriz@gmail.com', '(41) 3333-4444'),
 (5, 'Luís Felipe Pereira', 'luis.felipe@yahoo.com', '(51) 5555-6666'),
